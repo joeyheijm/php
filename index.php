@@ -2,7 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: joey
- * Date: 07/03/2019
- * Time: 08:55
+ * Date: 13/03/2019
+ * Time: 18:30
  */
-echo 'Hello world.';
+
+$aantal = 14;
+$deze_jongen = "deze jongen is een zieke man van";
+
+echo $deze_jongen.$aantal."!!!";
